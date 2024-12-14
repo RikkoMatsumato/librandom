@@ -1,2 +1,3 @@
 # librandom
-librandom by RikkoMatsumato
+
+WIP!!!
